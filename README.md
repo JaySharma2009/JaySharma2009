@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaySharma2009
-- 👀 I’m interested in sleeping
+- 👀 I’m interested in codeing
 - 🌱 I’m currently learning maths
 - 💞️ I’m looking to collaborate on space X
 - 📫 How to reach me iisjaysharma2009@gmail.com
