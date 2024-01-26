@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JAY SHARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **LLM's**
 
 - 🌱 I’m currently learning **React and Backend**
 
